@@ -1,14 +1,12 @@
 # Flutter
-<About Flutter><br/>
+About Flutter<br/>
 This is the code I coded following I referenced various documents and YouTube.<br/>
-<reference><br/>
+reference<br/>
 dart lib (https://dart.dev/guides/libraries)<br/>
-Dart API (https://api.dart.dev/stable/2.17.5/index.html)
+Dart API (https://api.dart.dev/stable/2.17.5/index.html)<br/>
 Coding Chef (https://www.youtube.com/channel/UC_2ge45JCuJH1z6VYt4iCgQ)<br/>
 <br/>
-<coding environment>
-<br/>
-<coding environment>
+coding environment
 <br/>
 -Android Studio
 <br/>
