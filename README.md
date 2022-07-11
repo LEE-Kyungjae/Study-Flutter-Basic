@@ -5,6 +5,8 @@ This is the code I coded following Coding Chef's YouTube channel.
 <br/>
 <coding environment>
 <br/>
+<coding environment>
+<br/>
 -Android Studio
 <br/>
 -VS Code
@@ -12,3 +14,7 @@ This is the code I coded following Coding Chef's YouTube channel.
 -flutter
 <br/>
 -dart
+<br/>
+I recommend using VS Code.
+<br/>
+VS Code can use the autocomplete function regardless of lowercase or uppercase letters, but Android Studio does not support it. Each has its pros and cons, so use it at your own risk.
